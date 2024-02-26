@@ -256,8 +256,8 @@ footer {
 	flex-direction: row;
 	justify-content: space-around;
 	align-items: center;
-	padding-top: 40px;
-	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 10px;
 	text-align: center;
 	background-color: #F6D2B8;
 }
